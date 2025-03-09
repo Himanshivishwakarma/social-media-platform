@@ -1,0 +1,10 @@
+# Node modules folder ko ignore karo
+node_modules
+
+# Environment file ko ignore karo
+.env
+
+# Logs ko ignore karo
+logs
+*.log
+npm-debug.log*
